@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Decentralized-Identity-Platform⚡",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "DIP lets you keep your documents safe and accessible on the decentralized web. 🌐 You can encrypt, upload, and download your files with IPFS, Filecoin, and Web3Storage. 🚀 DIP is easy to use and secure. 💻",
+    url: "https://github.com/ashutosh7i/Decentralized-Identity-Platform",
   },
   {
-    title: "Web Development for Beginners",
+    title: "PasswordMan🔐",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Password Man is a PHP bases password Manager🔏 used to generate Highly secure passwords and Store them to local storage in a encrypted form. To decrypt Passwords later we use a user defined key🔑.",
+    url: "https://github.com/ashutosh7i/PasswordMan",
   },
   {
-    title: "My Resume Site",
+    title: "OptiPause-20-20👀",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "OptiPause 20/20 is a developer's friend. It reminds you to rest your eyes for 20 seconds every 20 minutes and look at something 20 feet away. This way, you can keep your eyes healthy and happy.",
+    url: "https://github.com/ashutosh7i/OptiPause-20-20",
   },
   {
     title: "GitHub Codespaces and github.dev",
