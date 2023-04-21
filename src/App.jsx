@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Aashutosh Soni",
-  title: "Aspiring Full-Stach Web Dev & IoT Enthusiast",
+  title: "🚀Aspiring Full-Stack Web Dev,IOT & ML Enthusiast👨‍💻",
   email: "ashutoshsoni130@gmail.com",
   gitHub: "ashutosh7i",
   instagram: "ashutosh_7i",
@@ -35,7 +35,7 @@ const siteProps = {
   youTube: "ashutosh7i",
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#28464B";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {

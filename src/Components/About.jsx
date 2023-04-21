@@ -44,8 +44,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote = "I am passionate about creating innovative solutions for real-world problems using web development, IOT, and machine learning. I enjoy participating in hackathons and learning new skills and technologies.";
 
 const About = () => {
   return (
@@ -60,7 +59,7 @@ const About = () => {
           textAlign: "center",
         }}
       >
-        <h2>About Myself</h2>
+        <h2>About Me</h2>
         <p className="large">{description}</p>
         <hr />
         <ul

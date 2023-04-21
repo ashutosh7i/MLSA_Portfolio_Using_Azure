@@ -3,6 +3,7 @@
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,500&display=swap");
 
 html,
 body {
@@ -11,6 +12,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: "Montserrat", sans-serif;
+  text-shadow: 1px gray;
 }
 
 div#main {
@@ -35,6 +37,7 @@ section.light {
 }
 
 section img.background {
+  opacity: 60%;
   width: 100vmax;
   height: 100%;
   z-index: -1;
@@ -47,8 +50,9 @@ section img.background {
 }
 
 h1 {
-  font-weight: 300;
-  font-family: "Cormorant Garamond", serif;
+  font-weight: 300;font-family: 'Ubuntu', sans-serif;
+  text-shadow: 1px 2px 2px darkgoldenrod;
+  font-weight: 100;
   font-size: 7rem;
   margin: 0;
 }
