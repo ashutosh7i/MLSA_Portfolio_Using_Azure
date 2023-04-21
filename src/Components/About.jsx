@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Aspiring Full Stack Dev.📱(LAMP&MERN) | Winner WittyHacks 3.0🚀 | ML&IOT Enthusiast✨ | Alpha🌀 MLSA | Postman 👨‍🎓 Expert | Gmap Lv7📍| AITR'25 🧑🏻‍🎓 & a Youtuber for fun🥳⚡🛩️";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "IOT",
+  "Hackathons",
+  "Machine Learning",
+  "MERN Stack",
+  "LAMP Stack",
 ];
 
 /**
