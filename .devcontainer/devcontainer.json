@@ -19,11 +19,12 @@
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "GitHub.copilot",
-        "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurestaticwebapps"
+          "dbaeumer.vscode-eslint",
+          "esbenp.prettier-vscode",
+          "gitHub.copilot",
+          "ms-vscode.azure-account",
+          "ms-azuretools.vscode-azurestaticwebapps",
+          "oderwat.indent-rainbow" 
       ],
       "settings": {
         "emmet.includeLanguages": {
